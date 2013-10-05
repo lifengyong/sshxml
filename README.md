@@ -1,0 +1,1 @@
+#全部使用xml的一个Struts2+Spring3+hibernate4项目
